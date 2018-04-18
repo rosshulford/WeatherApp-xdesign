@@ -1,4 +1,4 @@
-# xdesign
+# Weather Technical Test
 
 > A Vue.js Weather project
 
