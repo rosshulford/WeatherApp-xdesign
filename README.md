@@ -29,9 +29,13 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 Todos
 - Extract input to a component
+- Catch an unknown location input
+- Autocomplet the location input 
 - Run Unit tests
 - Improve/Change Icons
 - Add loading screen when changing location 
 - Improve UX, add animations/transitions, make hourly breakdowns, scroll like the BBC
+- Is an hourly breakdown necessary? 
+- Have a 'more detail' page showing more data
 
 
