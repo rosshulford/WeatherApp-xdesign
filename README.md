@@ -35,8 +35,8 @@ Improvements
 - Run Unit tests
 - Improve/Change Icons
 - Add loading screen when changing location 
-- Improve UX, add animations/transitions, make hourly breakdowns, scroll like the BBC
+- Improve UX, add animations/transitions
 - Is an hourly breakdown necessary? 
-- Have a 'more detail' page showing more data
+- Have a 'more detail' page 
 
 
