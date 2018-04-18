@@ -29,7 +29,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 Todos
 - Extract input to a component
-- Catch an unknown location input
+- Catch an unknown location
 - Autocomplet the location input 
 - Run Unit tests
 - Improve/Change Icons
